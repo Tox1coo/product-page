@@ -322,23 +322,20 @@ html {
 }
 @font-face {
 	font-family: Circe;
-	src: url(product-page/assets/circe_700.bfd5ae1d.woff2) format("woff2"),
-		url(product-page/assets/circe_700.3ce8b46d.woff) format("woff"),
-		url(product-page/assets/circe_700.84728b6e.ttf) format("ttf");
+	src: url(circe_700.bfd5ae1d.woff2) format("woff2"), url(circe_700.3ce8b46d.woff) format("woff"),
+		url(circe_700.84728b6e.ttf) format("ttf");
 	font-weight: 700;
 }
 @font-face {
 	font-family: Circe;
-	src: url(product-page/assets/circe_600.d2fbe73a.woff2) format("woff2"),
-		url(product-page/assets/circe_600.80760ba8.woff) format("woff"),
-		url(product-page/assets/circe_600.58bba44c.ttf) format("ttf");
+	src: url(circe_600.d2fbe73a.woff2) format("woff2"), url(circe_600.80760ba8.woff) format("woff"),
+		url(circe_600.58bba44c.ttf) format("ttf");
 	font-weight: 600;
 }
 @font-face {
 	font-family: Circe;
-	src: url(product-page/assets/circe_300.2fc0c0be.woff2) format("woff2"),
-		url(product-page/assets/circe_300.d62fefd8.woff) format("woff"),
-		url(product-page/assets/circe_300.4bc70c7a.ttf) format("ttf");
+	src: url(circe_300.2fc0c0be.woff2) format("woff2"), url(circe_300.d62fefd8.woff) format("woff"),
+		url(circe_300.4bc70c7a.ttf) format("ttf");
 	font-weight: 300;
 }
 .share {

@@ -1,0 +1,40 @@
+{
+	"nameProduct": "рубашка medicine",
+	"tags": [
+		{
+			"title": "Рубашки Medicine",
+			"link": "#"
+		},
+		{
+			"title": " Все модели Medicine",
+			"link": "#"
+		},
+		{
+			"title": "Рубашки",
+			"link": "#"
+		}
+	],
+	"price": {
+		"currentPrice": "2 699 ₽",
+		"priceWithDiscount": "2 499 ₽",
+		"priceWithPromo": "2 227 ₽"
+	},
+	"availability": true,
+	"shop": "Lamoda",
+	"description": [
+		"Рубашка Medicine выполнена из вискозной ткани с клетчатым узором. Детали: прямой крой; отложной воротник; планка и манжеты на пуговицах; карман на груди."
+	],
+	"photos": {
+		"preview": [
+			"t-shirt-preview",
+			"t-shirt-2-preview",
+			"t-shirt-3-preview"
+		],
+		"list": [
+			"t-shirt",
+			"t-shirt-2",
+			"t-shirt-3"
+		]
+	},
+	"shareCount": 123
+}
